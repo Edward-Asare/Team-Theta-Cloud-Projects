@@ -22,8 +22,8 @@ Hands-on AWS projects built weekly by **Team Theta** during the **Build with Clo
 
 ## 👥 Team
 
-- Edward Acheampong Asare — [GitHub handle]
-- [Teammate name] — [GitHub handle]
+- Edward Acheampong Asare — Edward-Asare
+- Alex Agyei — lexisbil1
 - [Teammate name] — [GitHub handle]
 - [Teammate name] — [GitHub handle]
 
