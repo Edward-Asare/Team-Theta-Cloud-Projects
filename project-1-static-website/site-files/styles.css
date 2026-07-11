@@ -1,0 +1,14 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #172033;
+  background: #f5f7fb;
+}
+
+body { margin: 0; }
+.container { max-width: 960px; margin: 0 auto; padding: 48px 24px; }
+.hero { padding: 64px 0; }
+.eyebrow { text-transform: uppercase; letter-spacing: .1em; font-weight: 700; }
+h1 { font-size: clamp(2.5rem, 6vw, 4.75rem); margin: 0 0 16px; }
+p, li { font-size: 1.1rem; line-height: 1.7; }
+.button { display: inline-block; margin-top: 20px; padding: 14px 20px; background: #172033; color: white; border-radius: 10px; text-decoration: none; }
+.card { background: white; padding: 32px; border-radius: 18px; box-shadow: 0 12px 30px rgba(23, 32, 51, .08); }
