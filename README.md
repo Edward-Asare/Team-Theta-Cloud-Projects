@@ -12,11 +12,7 @@ Hands-on AWS projects built weekly by **Team Theta** during the **Build with Clo
 | Week | Project | Description | AWS Services Used |
 |---|---|---|---|
 | 1 | [Static Website Hosting](./project-1-static-website) | Serverless static website (S3 + CloudFront + ACM + Route 53) with a custom domain and HTTPS | S3, CloudFront, ACM, Route 53 |
-| 2 | [Project Name](./project-2-name) | _Coming soon_ | — |
-| 3 | [Project Name](./project-3-name) | _Coming soon_ | — |
-| 4 | [Project Name](./project-4-name) | _Coming soon_ | — |
 
-> Update this table each week as new projects are added — rename the folder link and fill in the description/services column.
 
 ---
 
@@ -24,8 +20,6 @@ Hands-on AWS projects built weekly by **Team Theta** during the **Build with Clo
 
 - Edward Acheampong Asare — Edward-Asare
 - Alex Agyei — lexisbil1
-- [Teammate name] — [GitHub handle]
-- [Teammate name] — [GitHub handle]
 
 ---
 
@@ -33,15 +27,12 @@ Hands-on AWS projects built weekly by **Team Theta** during the **Build with Clo
 
 ```
 Theta-Team-Cloud-Projects/
-├── README.md                      ← you are here
+├── README.md                     
 ├── project-1-static-website/
-│   └── README.md                  ← full write-up for week 1
-├── project-2-name/
+│   └── screenshots/
+│   └── site-files/
+│   └── Architectural-Diagram.png      
 │   └── README.md
-├── project-3-name/
-│   └── README.md
-└── project-4-name/
-    └── README.md
 ```
 
 ---
