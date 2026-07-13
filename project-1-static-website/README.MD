@@ -1,6 +1,6 @@
 #  Team Theta Portfolio — Serverless Static Website on AWS
 
-A fully serverless, highly available static website deployment using **Amazon S3**, **CloudFront**, **ACM**, and **Route 53** — built as part of the **Build with Cloud Peers** cohort.
+A fully serverless, highly available static website deployment using **Amazon S3**, **CloudFront**, **ACM**, and **Route 53** — built as part of the **Cloud Build with Peers** cohort 1.
 
 Live domain: `teamtheta.site` (and `www.teamtheta.site`)
 
@@ -73,7 +73,7 @@ S3 Bucket (Private, static files)
 | Route 53 (DNS queries) | Alias records to CloudFront | $0.00 | Standard CNAMEs cost extra; Alias records to AWS resources don't |
 | Route 53 (Hosted Zone) | 1 hosted zone | $0.50/mo | Flat monthly charge |
 | Namecheap domain registration | — | $1.18/yr | Renewable annually |
-| **Total** | | **≈ $1.68/mo** | |
+| **Total** | | **≈ $0.60/mo** | |
 
 ---
 
