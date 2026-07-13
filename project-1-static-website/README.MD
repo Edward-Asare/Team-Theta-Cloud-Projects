@@ -2,7 +2,7 @@
 
 A fully serverless, highly available static website deployment using **Amazon S3**, **CloudFront**, **ACM**, and **Route 53** — built as part of the **Cloud Build with Peers** cohort 1.
 
-Live domain: `teamtheta.site` (and `www.teamtheta.site`)
+Live domain: [`teamtheta.site`](URL) (and [`www.teamtheta.site`](URL))
 
 ---
 
