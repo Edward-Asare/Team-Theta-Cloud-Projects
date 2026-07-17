@@ -20,6 +20,7 @@ Hands-on AWS projects built weekly by **Team Theta** during the **Build with Clo
 
 - Edward Acheampong Asare — Edward-Asare
 - Alex Agyei — lexisbil1
+- Bernard Okyere — burnard-ok
 
 ---
 
